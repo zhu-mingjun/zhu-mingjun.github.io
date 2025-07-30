@@ -1,0 +1,89 @@
+/* 清除全局模糊和半透明 */
+body {
+    -webkit-font-smoothing: auto !important; /* 禁用字体抗锯齿模糊 */
+    background-color: #fff !important; /* 纯白背景 */
+}
+
+/* 恢复侧边栏不透明度 */
+.side-card,
+.author-avatar,
+.author-discrip,
+.author-links,
+.author-avatar img{
+    opacity: 1 !important;
+    margin-left: -50px !important;  /* 向左移动20px（负值） */
+    padding-left: 10px !important;  /* 可选：调整内部内容间距 */
+}
+
+/* 修复滚动条半透明 */
+::-webkit-scrollbar-thumb {
+    background-color: #c1c1c1 !important; /* 实色滚动条 */
+}
+
+/* 移除可能的遮罩层 */
+body::before,
+.main-container::before {
+    display: none !important;
+}
+/* 增大头像区域 */
+.author-avatar {
+    display: table-cell !important;
+    width: 200px !important;
+    height: 200px !important;
+    padding-right: 15px !important;
+}
+
+/* 优化头像显示 */
+.author-avatar img {
+    width: auto !important;     /* 禁止强制拉伸 */
+    height: auto !important;
+    max-width: 200px !important; /* 按需调整 */
+    max-height: 200px !important;
+    object-fit: contain !important; /* 保持原始比例 */
+    image-rendering: -webkit-optimize-contrast; /* 高清渲染（Chrome/Safari） */
+}
+/* 放大作者简介字体 */
+.author-discrip {
+    font-size: 1.6rem !important;  /* 原为1.2rem-1.4rem */
+    line-height: 1.6 !important;   /* 增加行高 */
+}
+
+/* 标题和副标题调整 */
+.author-discrip h3 {
+    font-size: 2.2rem !important;  /* 原为1.8rem */
+    margin-bottom: 0.5rem !important;
+}
+.author-discrip .author-bio {
+    font-size: 1.5rem !important;  /* 原为1.2rem-1.4rem */
+}
+/* 调整侧边栏卡片宽度（根据布局需要） */
+.side-card {
+    min-width: 220px !important; /* 扩大宽度容纳新头像 */
+}
+
+/* 仅移动作者名字（h3标题）*/
+.author-discrip h3 {
+    padding-left: 20px !important;  /* 名字向右移动20px */
+    margin-bottom: 0.5rem !important; /* 保持与简介的间距 */
+}
+/* 简介保持原位 */
+.author-discrip .author-bio {
+    padding-left: 0 !important;     /* 简介不跟随移动 */
+}
+
+@media (max-width: 768px) {
+    .author-avatar {
+        width: 120px !important;
+        height: 120px !important;
+        margin-right: 0 !important;
+        margin-bottom: 15px !important;
+    }
+    .author-avatar img {
+        max-width: 120px !important;
+    }
+    .author-discrip h3 {
+        padding-left: 15px !important;  /* 移动端减少右移距离 */
+    }
+
+
+}
