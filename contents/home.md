@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![zhu-mingjun](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/zhu-mingjun)
 
 Zhumingjun is a Master’s candidate in Computational Communication at Nanjing University’s School of Journalism and Communication. Holding a Bachelor’s degree in Computer Science and Technology, she specializes in applying data mining techniques to study communication patterns and user behavior in social media.
 
@@ -9,10 +9,10 @@ Zhumingjun is a Master’s candidate in Computational Communication at Nanjing U
 <code>gxx520888@163.com</code>
 
 #### Education | 教育经历 
-**Nanjing University**, Computational communication research（2025 - ） 
+**Nanjing University**, Computational communication research（2025 - ）<br>
 **南京大学**, 计算传播方向（2025 - ）
 
-**Qufu Normal University**, Computer Science and Technology (2021 – 2025)  
+**Qufu Normal University**, Computer Science and Technology (2021 – 2025)<br>
 **曲阜师范大学**,计算机科学与技术（2021 - 2025）
  
 
