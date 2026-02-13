@@ -1,21 +1,17 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+### **比赛经历**  
+**第⼗四届蓝桥杯⼤赛专项赛元宇宙创想+数字内容创作⼤赛平⾯创意赛道全国⼆等奖**  
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+负责项⽬内容构思与创意设计，结合AIGC技术优化视觉呈现。通过多轮提⽰词调试，提升⽣成内容质量，实现⽂化主题与数字艺术的融合
 
----
+**“建⾏杯”第⼋届⼭东省“互联⽹+”⼤学⽣创新创业⼤赛铜奖**
+负责项⽬创意构想及⼩程序版块设计，将计算机技术融⼊于市场服务，打造碳中和茶园综合体的“智能管家” ，实现项⽬产品落地化
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+**全国⼤学⽣数学建模竞赛⼭东赛区三等奖**
+负责代码编写与部分论⽂撰写，通过代码分析⽐赛数据，建⽴多因⼦的补货与定价模型，提供货品的补货与定价策略
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+**第⼗四届蓝桥杯⼭东赛区C/C++赛道⼤学B组三等奖** 
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+**第⼗五届蓝桥杯⼭东赛区python赛道⼤学B组三等奖**
+
+
